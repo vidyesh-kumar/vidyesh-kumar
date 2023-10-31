@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vidyesh-kumar
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Building Software Projects
 - 🌱 I’m currently learning BE in CSE
 - 📫 How to reach me kumarvidyesh@gmail.com
 
